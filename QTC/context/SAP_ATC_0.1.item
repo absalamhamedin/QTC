@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_rvd9YH0MEfCDkpzgAyInyA" confirmationNeeded="false" hide="false" name="ATC_DES">
+    <contextParameter xmi:id="_rvd9YX0MEfCDkpzgAyInyA" comment="" name="SAP_Password" prompt="SAP_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:oZhUZnOQpE/+F8Jb65wyTX/GheVcGxXY8NW749VlNfOgMWePJBXE"/>
+    <contextParameter xmi:id="_rvd9Yn0MEfCDkpzgAyInyA" comment="" name="SAP_Language" prompt="SAP_Language?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="EN"/>
+    <contextParameter xmi:id="_rvd9Y30MEfCDkpzgAyInyA" comment="" name="SAP_Client" prompt="SAP_Client?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="340"/>
+    <contextParameter xmi:id="_rvd9ZH0MEfCDkpzgAyInyA" comment="" name="SAP_SystemNumber" prompt="SAP_SystemNumber?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="00"/>
+    <contextParameter xmi:id="_rvd9ZX0MEfCDkpzgAyInyA" comment="" name="SAP_Host" prompt="SAP_Host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="172.17.202.140"/>
+    <contextParameter xmi:id="_rvd9Zn0MEfCDkpzgAyInyA" comment="" name="SAP_UserName" prompt="SAP_UserName?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="SWDATALAKE"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_V-tR8HeJEfCwXMY08LKC6w" confirmationNeeded="false" hide="false" name="ATC_PRD">
+    <contextParameter xmi:id="_V-tR8XeJEfCwXMY08LKC6w" comment="" name="SAP_Password" prompt="SAP_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:HMFG5KYK0QfBM3GewlphePXKi4w24Lrkvn3V1nY4mGqTiroPmPcAAiY="/>
+    <contextParameter xmi:id="_V-tR8neJEfCwXMY08LKC6w" comment="" name="SAP_Language" prompt="SAP_Language?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="EN"/>
+    <contextParameter xmi:id="_V-tR83eJEfCwXMY08LKC6w" comment="" name="SAP_Client" prompt="SAP_Client?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="300"/>
+    <contextParameter xmi:id="_V-tR9HeJEfCwXMY08LKC6w" comment="" name="SAP_SystemNumber" prompt="SAP_SystemNumber?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="00"/>
+    <contextParameter xmi:id="_V-tR9XeJEfCwXMY08LKC6w" comment="" name="SAP_Host" prompt="SAP_Host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="172.17.203.64"/>
+    <contextParameter xmi:id="_V-tR9neJEfCwXMY08LKC6w" comment="" name="SAP_UserName" prompt="SAP_UserName?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="SWDATALAKE"/>
+  </talendfile:ContextType>
+</xmi:XMI>

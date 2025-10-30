@@ -1,0 +1,120 @@
+{
+  "itemId" : "_VptYkH37EfCH-6s8wqDd1Q",
+  "contextList" : [ {
+    "contextName" : "ATC_DES",
+    "repoId" : "_5q5Q0G7yEfCGacRluPsHTg",
+    "parameterList" : [ {
+      "id" : "_JnCDAX0NEfCDkpzgAyInyA",
+      "name" : "SNOWFLAKE_METADATA_db"
+    }, {
+      "id" : "_JnCDAn0NEfCDkpzgAyInyA",
+      "name" : "SNOWFLAKE_METADATA_schemaName"
+    }, {
+      "id" : "_JnCDA30NEfCDkpzgAyInyA",
+      "name" : "SNOWFLAKE_METADATA_account"
+    }, {
+      "id" : "_JnCDBH0NEfCDkpzgAyInyA",
+      "name" : "SNOWFLAKE_METADATA_userPassword_userId"
+    }, {
+      "id" : "_JnCDBX0NEfCDkpzgAyInyA",
+      "name" : "SNOWFLAKE_METADATA_oauthProperties_oauthUserName"
+    }, {
+      "id" : "_JnCDBn0NEfCDkpzgAyInyA",
+      "name" : "SNOWFLAKE_METADATA_jdbcUrlSuffix"
+    }, {
+      "id" : "_JnCDB30NEfCDkpzgAyInyA",
+      "name" : "SNOWFLAKE_METADATA_loginTimeout"
+    }, {
+      "id" : "_JnCDCH0NEfCDkpzgAyInyA",
+      "name" : "SNOWFLAKE_METADATA_warehouse"
+    }, {
+      "id" : "_JnCDCX0NEfCDkpzgAyInyA",
+      "name" : "SNOWFLAKE_METADATA_role"
+    }, {
+      "id" : "_JnCDCn0NEfCDkpzgAyInyA",
+      "name" : "SNOWFLAKE_METADATA_keyAlias"
+    }, {
+      "id" : "_JnCDC30NEfCDkpzgAyInyA",
+      "name" : "SNOWFLAKE_METADATA_oauthProperties_clientId"
+    }, {
+      "id" : "_JnCDDH0NEfCDkpzgAyInyA",
+      "name" : "SNOWFLAKE_METADATA_oauthProperties_clientSecret"
+    }, {
+      "id" : "_JnCDDX0NEfCDkpzgAyInyA",
+      "name" : "SNOWFLAKE_METADATA_oauthProperties_scope"
+    }, {
+      "id" : "_JnCDDn0NEfCDkpzgAyInyA",
+      "name" : "SNOWFLAKE_METADATA_jdbcParameters"
+    }, {
+      "id" : "_JnCDD30NEfCDkpzgAyInyA",
+      "name" : "SNOWFLAKE_METADATA_oauthProperties_oauthTokenEndpoint"
+    }, {
+      "id" : "_JnCDEH0NEfCDkpzgAyInyA",
+      "name" : "SNOWFLAKE_METADATA_oauthProperties_oauthPassword"
+    }, {
+      "id" : "_JnCDEX0NEfCDkpzgAyInyA",
+      "name" : "SNOWFLAKE_METADATA_userPassword_password"
+    }, {
+      "id" : "_JnCDEn0NEfCDkpzgAyInyA",
+      "name" : "SNOWFLAKE_METADATA_regionID"
+    } ]
+  }, {
+    "contextName" : "ATC_PRD",
+    "repoId" : "_5q5Q0G7yEfCGacRluPsHTg",
+    "parameterList" : [ {
+      "id" : "_5rkmQW7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_db"
+    }, {
+      "id" : "_5rkmQm7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_schemaName"
+    }, {
+      "id" : "_5rkmQ27yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_account"
+    }, {
+      "id" : "_5rkmRG7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_userPassword_userId"
+    }, {
+      "id" : "_5rkmRW7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_oauthProperties_oauthUserName"
+    }, {
+      "id" : "_5rkmRm7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_jdbcUrlSuffix"
+    }, {
+      "id" : "_5rkmR27yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_loginTimeout"
+    }, {
+      "id" : "_5rkmSG7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_warehouse"
+    }, {
+      "id" : "_5rkmSW7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_role"
+    }, {
+      "id" : "_5rkmSm7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_keyAlias"
+    }, {
+      "id" : "_5rkmS27yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_oauthProperties_clientId"
+    }, {
+      "id" : "_5rkmTG7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_oauthProperties_clientSecret"
+    }, {
+      "id" : "_5rkmTW7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_oauthProperties_scope"
+    }, {
+      "id" : "_5rkmTm7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_jdbcParameters"
+    }, {
+      "id" : "_5rkmT27yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_oauthProperties_oauthTokenEndpoint"
+    }, {
+      "id" : "_5rkmUG7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_oauthProperties_oauthPassword"
+    }, {
+      "id" : "_5rkmUW7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_userPassword_password"
+    }, {
+      "id" : "_5rkmUm7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_regionID"
+    } ]
+  } ]
+}

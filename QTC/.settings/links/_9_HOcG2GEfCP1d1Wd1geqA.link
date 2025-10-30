@@ -1,0 +1,62 @@
+{
+  "itemId" : "_9_HOcG2GEfCP1d1Wd1geqA",
+  "contextList" : [ {
+    "contextName" : "ATC_PRD",
+    "repoId" : "_5q5Q0G7yEfCGacRluPsHTg",
+    "parameterList" : [ {
+      "id" : "_5rkmQW7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_db"
+    }, {
+      "id" : "_5rkmQm7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_schemaName"
+    }, {
+      "id" : "_5rkmQ27yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_account"
+    }, {
+      "id" : "_5rkmRG7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_userPassword_userId"
+    }, {
+      "id" : "_5rkmRW7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_oauthProperties_oauthUserName"
+    }, {
+      "id" : "_5rkmRm7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_jdbcUrlSuffix"
+    }, {
+      "id" : "_5rkmR27yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_loginTimeout"
+    }, {
+      "id" : "_5rkmSG7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_warehouse"
+    }, {
+      "id" : "_5rkmSW7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_role"
+    }, {
+      "id" : "_5rkmSm7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_keyAlias"
+    }, {
+      "id" : "_5rkmS27yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_oauthProperties_clientId"
+    }, {
+      "id" : "_5rkmTG7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_oauthProperties_clientSecret"
+    }, {
+      "id" : "_5rkmTW7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_oauthProperties_scope"
+    }, {
+      "id" : "_5rkmTm7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_jdbcParameters"
+    }, {
+      "id" : "_5rkmT27yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_oauthProperties_oauthTokenEndpoint"
+    }, {
+      "id" : "_5rkmUG7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_oauthProperties_oauthPassword"
+    }, {
+      "id" : "_5rkmUW7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_userPassword_password"
+    }, {
+      "id" : "_5rkmUm7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_METADATA_regionID"
+    } ]
+  } ]
+}

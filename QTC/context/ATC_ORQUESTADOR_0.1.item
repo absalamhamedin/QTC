@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_16WLEH0OEfCDkpzgAyInyA" confirmationNeeded="false" hide="false" name="ATC_DES">
+    <contextParameter xmi:id="_16WLEX0OEfCDkpzgAyInyA" comment="" name="job" prompt="job?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="job"/>
+    <contextParameter xmi:id="_16WLEn0OEfCDkpzgAyInyA" comment="" name="ciclo" prompt="ciclo?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="0"/>
+    <contextParameter xmi:id="_oJUxoH7DEfC6t71W7Xwgyw" comment="" name="id" prompt="id?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="0"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_jv7y8HbVEfCaf8NdWmjTeQ" confirmationNeeded="false" hide="false" name="ATC_PRD">
+    <contextParameter xmi:id="_jv7y8XbVEfCaf8NdWmjTeQ" comment="" name="job" prompt="job?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="job"/>
+    <contextParameter xmi:id="_jv7y8nbVEfCaf8NdWmjTeQ" comment="" name="ciclo" prompt="ciclo?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="0"/>
+    <contextParameter xmi:id="_oJVYsH7DEfC6t71W7Xwgyw" comment="" name="id" prompt="id?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="0"/>
+  </talendfile:ContextType>
+</xmi:XMI>

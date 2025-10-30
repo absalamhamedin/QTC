@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_lPTxIH0OEfCDkpzgAyInyA" confirmationNeeded="false" hide="false" name="ATC_DES">
+    <contextParameter xmi:id="_lPTxIX0OEfCDkpzgAyInyA" comment="" name="delta_prefix" prompt="delta_prefix?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DELTA_"/>
+    <contextParameter xmi:id="_lPTxIn0OEfCDkpzgAyInyA" comment="" name="topSize" prompt="topSize?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="100"/>
+    <contextParameter xmi:id="_3oq34H7sEfC6t71W7Xwgyw" comment="" name="keystoreFile" prompt="keystoreFile?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="C:/ATC/SNOWFLAKE/keystore.p12"/>
+    <contextParameter xmi:id="_SgHbcH7tEfC6t71W7Xwgyw" comment="" name="keystorePassword" prompt="keystorePassword?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:M3nOX943Ft/D3vOsEzztJ42FJXPda3MdyTTZBUIfoN6R3unU21hvmkBttA=="/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_feQy0G5YEfCJKN-Ov5M-mQ" confirmationNeeded="false" hide="false" name="ATC_PRD">
+    <contextParameter xmi:id="_feQy0W5YEfCJKN-Ov5M-mQ" comment="" name="delta_prefix" prompt="delta_prefix?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DELTA_"/>
+    <contextParameter xmi:id="_rmKkEG7tEfCJKN-Ov5M-mQ" comment="" name="topSize" prompt="topSize?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="100"/>
+    <contextParameter xmi:id="_3oq34X7sEfC6t71W7Xwgyw" comment="" name="keystoreFile" prompt="keystoreFile?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="C:/ATC/SNOWFLAKE/keystore.p12"/>
+    <contextParameter xmi:id="_SgHbcX7tEfC6t71W7Xwgyw" comment="" name="keystorePassword" prompt="keystorePassword?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:bV50B+ALU7qH/Em96C+TAEk0n3Wk99xBofHfW4Ir7Jxh7MH/NEiqhG8amw=="/>
+  </talendfile:ContextType>
+</xmi:XMI>

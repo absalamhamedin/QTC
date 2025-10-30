@@ -1,0 +1,62 @@
+{
+  "itemId" : "_pNdBsGcVEfCvbKSbJsGnLQ",
+  "contextList" : [ {
+    "contextName" : "ATC_PRD",
+    "repoId" : "_eglaAH34EfCJ_aqYbbfv7w",
+    "parameterList" : [ {
+      "id" : "_1UR14W7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_SAP_warehouse"
+    }, {
+      "id" : "_1UR14m7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_SAP_jdbcParameters"
+    }, {
+      "id" : "_1UR1427yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_SAP_regionID"
+    }, {
+      "id" : "_1UR15G7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_SAP_account"
+    }, {
+      "id" : "_1UR15W7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_SAP_oauthProperties_oauthPassword"
+    }, {
+      "id" : "_1UR15m7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_SAP_oauthProperties_clientId"
+    }, {
+      "id" : "_1UR1527yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_SAP_userPassword_userId"
+    }, {
+      "id" : "_1UR16G7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_SAP_schemaName"
+    }, {
+      "id" : "_1UR16W7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_SAP_oauthProperties_oauthTokenEndpoint"
+    }, {
+      "id" : "_1UR16m7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_SAP_loginTimeout"
+    }, {
+      "id" : "_1UR1627yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_SAP_oauthProperties_oauthUserName"
+    }, {
+      "id" : "_1UR17G7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_SAP_keyAlias"
+    }, {
+      "id" : "_1UR17W7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_SAP_oauthProperties_scope"
+    }, {
+      "id" : "_1UR17m7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_SAP_db"
+    }, {
+      "id" : "_1UR1727yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_SAP_userPassword_password"
+    }, {
+      "id" : "_1UR18G7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_SAP_jdbcUrlSuffix"
+    }, {
+      "id" : "_1UR18W7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_SAP_role"
+    }, {
+      "id" : "_1UR18m7yEfCGacRluPsHTg",
+      "name" : "SNOWFLAKE_SAP_oauthProperties_clientSecret"
+    } ]
+  } ]
+}
